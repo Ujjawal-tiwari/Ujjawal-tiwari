@@ -2,7 +2,7 @@
 
 🚀 Passionate about AI & ML | 💻 Full-stack Developer | 🎨 Open-source Contributor
 
-![AI & ML Banner]![Description](https://www.tumblr.com/tanbi-no-kami/74639050286/jiji)
+![AI & ML Banner]![Description]([https://www.tumblr.com/tanbi-no-kami/74639050286/jiji](https://64.media.tumblr.com/db6428bb3fbd388029bf04de96f07c06/tumblr_inline_pjzy8pLMK21qlo3lt_400.gifv))
 
 ## 🔥 Skills
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-yellow?style=flat)
