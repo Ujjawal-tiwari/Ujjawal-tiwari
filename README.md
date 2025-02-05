@@ -11,16 +11,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal-tiwari&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ujjawal-tiwari&theme=dark)
 
-## 🎯 "Code, Learn, Repeat"
 
 ## 📝 Latest Blog: [https://ujjawaltiwari2.hashnode.dev/how-companies-can-develop-fair-and-unbiased-llms)
-
-## 📂 Projects
-- [AI Chatbot](https://github.com/Ujjawal-tiwari/AI-Chatbot)
-
-## 🌟 Featured Repositories
-![Repo 1](https://img.shields.io/badge/AI_Chatbot-blue?style=flat&logo=github)
-
-## 🔄 Recent Activity
-- 📦 Pushed to [AI Chatbot](https://github.com/Ujjawal-tiwari/AI-Chatbot) on `main`
-- 🛠️ Opened a pull request [#23](https://github.com/Ujjawal-tiwari/React-Weather-App/pull/23)
