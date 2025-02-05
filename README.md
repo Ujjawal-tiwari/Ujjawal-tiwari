@@ -2,10 +2,10 @@
 
 🚀 Passionate about AI & ML | 💻 Full-stack Developer | 🎨 Open-source Contributor
 
-![AI & ML Banner]![Jiji](https://64.media.tumblr.com/db6428bb3fbd388029bf04de96f07c06/tumblr_inline_pjzy8pLMK21qlo3lt_400.gifv)
+![AI & ML Banner](https://64.media.tumblr.com/db6428bb3fbd388029bf04de96f07c06/tumblr_inline_pjzy8pLMK21qlo3lt_400.gifv)
 
 ## 🔥 Skills
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-yellow?style=flat)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat&logo=flask) ![Frappe](https://img.shields.io/badge/-Frappe-blue?style=flat&logo=frappe) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?style=flat)
 
 📊 **GitHub Stats**  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ujjawal-tiwari&show_icons=true&theme=radical)
@@ -23,10 +23,9 @@
 
 ## 📂 Projects
 - [AI Chatbot](https://github.com/Ujjawal-tiwari/AI-Chatbot)
-- [React Weather App](https://github.com/Ujjawal-tiwari/React-Weather-App)
 
 ## 🌟 Featured Repositories
-![Repo 1](https://img.shields.io/badge/AI_Chatbot-blue?style=flat&logo=github) ![Repo 2](https://img.shields.io/badge/React_Weather_App-blue?style=flat&logo=github)
+![Repo 1](https://img.shields.io/badge/AI_Chatbot-blue?style=flat&logo=github)
 
 ## 🔄 Recent Activity
 - 📦 Pushed to [AI Chatbot](https://github.com/Ujjawal-tiwari/AI-Chatbot) on `main`
