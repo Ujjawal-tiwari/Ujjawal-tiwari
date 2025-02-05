@@ -13,7 +13,7 @@
 
 ## 🎯 "Code, Learn, Repeat"
 
-## 📝 Latest Blog: [Exploring AI in Healthcare](https://medium.com/@ujjawaltiwari/exploring-ai-in-healthcare-123456789)
+## 📝 Latest Blog: [https://ujjawaltiwari2.hashnode.dev/how-companies-can-develop-fair-and-unbiased-llms)
 
 ## 📂 Projects
 - [AI Chatbot](https://github.com/Ujjawal-tiwari/AI-Chatbot)
